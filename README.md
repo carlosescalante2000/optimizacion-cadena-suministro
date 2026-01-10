@@ -4,7 +4,7 @@ Proyecto de optimización de la cadena de suministro para una planta de manufact
 
 ## Objetivo
 
-Predecir retrasos en entregas y optimizar niveles de inventario para una planta de manufactura en Tlaxcala (estilo Schneider Electric/Arcomex).
+Predecir retrasos en entregas y optimizar niveles de inventario para una planta de manufactura (estilo Schneider Electric/Arcomex).
 
 ## Dataset
 
